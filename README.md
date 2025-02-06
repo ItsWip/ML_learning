@@ -13,13 +13,13 @@ A table to track my learning progress:
 
 | Date       | Topic Learned |
 |------------|--------------|
-|            |              |
+| 6 Feb           | Linear Regression              |
 |            |              |
 
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ItsWip/ML_learning.git
    ```
 2. Navigate to the repository:
    ```sh
