@@ -23,7 +23,7 @@ A table to track my learning progress:
    ```
 2. Navigate to the repository:
    ```sh
-   cd your-repo-name
+   cd ML_learning
    ```
 3. Open Jupyter Notebook (if applicable):
    ```sh
