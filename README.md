@@ -13,8 +13,14 @@ A table to track my learning progress:
 
 | Date       | Topic Learned |
 |------------|--------------|
+| 31 Jan          | Assignment 1      |
+| 1 Feb           | Assignment 2      |
+| 4 Feb           | Assignment 3      |
 | 6 Feb           | Linear Regression              |
 |            |              |
+
+## Mentorship & Credits
+I want to extend my gratitude to **SkillBridge** and its dedicated mentors for providing invaluable guidance throughout my AI and ML learning journey. Their mentorship has been playing a crucial role in shaping my understanding of concepts and practical applications.
 
 ## How to Use
 1. Clone the repository:
